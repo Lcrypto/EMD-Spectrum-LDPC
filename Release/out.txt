@@ -1,0 +1,6 @@
+girth = 4	10 cycles
+EMD	Number
+2	10
+girth = 6	90 cycles
+EMD	Number
+3	90

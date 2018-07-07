@@ -1,0 +1,116 @@
+﻿  main.cpp
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\irregularLDPC.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\irregularLDPC.h(153): warning C4307: -: переполнение целой константы
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(54): warning C4091: static : пропускается слева от "Tiii", когда ни одна переменная не объявлена
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(67): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(73): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(101): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(119): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(139): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(159): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(160): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(162): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(163): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(194): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(195): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(232): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(233): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(257): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(258): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(260): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(261): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(265): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(301): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(309): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(325): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(350): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(401): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(402): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(404): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(405): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(409): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(440): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(456): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(471): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(493): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(541): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(542): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(543): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(544): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(547): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(548): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(549): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(550): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(555): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(591): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(607): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(608): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(625): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(652): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(700): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(701): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(702): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(703): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(706): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(707): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(708): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(709): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(714): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(750): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(766): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(767): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(784): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(812): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(842): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(843): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(863): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(864): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(868): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(899): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(983): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(993): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(999): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1017): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1029): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1038): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1044): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1065): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1068): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1071): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1079): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1089): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1092): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1095): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1098): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1164): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1189): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1190): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1200): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1200): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1205): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1207): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1217): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1242): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1253): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1258): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\ME.h(41): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(14): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+main.cpp(59): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+main.cpp(68): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+main.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(72): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(73): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+main.cpp(80): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(57): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note:  см. объявление "freopen"
+main.cpp(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(200): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1082): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::pair<std::pair<int,int>,int>::pair<std::pair<int,int>,__int64,void,0>(std::pair<std::pair<int,int>,__int64> &&) noexcept"
+  c:\users\besel\desktop\new project from github\getemddistribution\getemddistribution\.\myLib\emdOptimization.h(1080): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::pair<std::pair<int,int>,int>::pair<std::pair<int,int>,__int64,void,0>(std::pair<std::pair<int,int>,__int64> &&) noexcept"
+  Создание кода
+  All 1217 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  getEMDDistribution.vcxproj -> C:\Users\Besel\Desktop\new project from github\getEMDDistribution\Release\getEMDDistribution.exe
+  getEMDDistribution.vcxproj -> C:\Users\Besel\Desktop\new project from github\getEMDDistribution\Release\getEMDDistribution.pdb (Full PDB)
