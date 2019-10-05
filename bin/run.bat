@@ -1,0 +1,1 @@
+getEMDDistribution.exe -file 16_6_500.txt -out out.txt -upperGirth 12
