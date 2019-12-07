@@ -15,11 +15,23 @@ Parity-check Matrix with 9 columns, 3 rows and circulant size 1 (not quasi-cycli
 
 
 9 3 1
+
+
 1	0	1	0	1	0	0	0	1
+
+
 0	1	1	0	1	1	1	0	0
+
+
 0	0	0	1	0	1	0	0	0
+
+
 0	0	0	1	1	0	1	1	0
+
+
 0	1	1	1	0	1	0	0	1
+
+
 1	1	0	0	0	0	1	1	1
 
 
@@ -27,6 +39,7 @@ after enumerating cycles up to 8 using command
 
 
 getEMDDistribution.exe -file 9_3.txt -out out.txt -upperGirth 8
+
 
 Get EMD Spectrum
 
