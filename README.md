@@ -11,10 +11,7 @@ Tao Tian, C. R. Jones, J. D. Villasenor and R. D. Wesel, "Selective avoidance of
 
 Example of EMD Spectrum Estimation from paper Tao at al.
 
-Parity-check Matrix with 9 columns, 3 rows and circulant size 1 (not quasi-cyclic codes)
-
-
-9 3 1
+Parity-check Matrix with 9 columns, 3 rows and circulant size 1 (not quasi-cyclic codes) but we can rewrite it in QC for
 
 
 1	0	1	0	1	0	0	0	1
@@ -34,21 +31,75 @@ Parity-check Matrix with 9 columns, 3 rows and circulant size 1 (not quasi-cycli
 
 1	1	0	0	0	0	1	1	1
 
+became
+
+9 6 1
+
+
+0  -1	 0	-1	0	-1	-1	-1	0
+
+-1  0	 0 -1	0	 0	 0	-1	-1
+
+-1 -1	 -1	  0	-1 0	-1	-1 -1
+
+-1 -1  -1	  0	 0 -1	 0	0	-1
+
+-1	0	  0	  0	-1  0	-1 -1	 0
+
+ 0	0	 -1	 -1	 -1	-1 0	0	 0
+
 
 after enumerating cycles up to 8 using command
 
 
 getEMDDistribution.exe -file 9_3.txt -out out.txt -upperGirth 8
 
+result at out.txt
 
-Get EMD Spectrum
 
-girth = 4	108 cycles
+girth = 4	11 cycles
+
+
 EMD	Number
-0	108
-girth = 6	504 cycles
+
+
+1	2
+
+
+2	9
+
+
+girth = 6	51 cycles
+
+
 EMD	Number
-0	504
-girth = 8	9234 cycles
+
+
+0	8
+
+
+1	19
+
+
+2	18
+
+
+3	6
+
+
+girth = 8	170 cycles
+
+
 EMD	Number
-0	9234
+
+
+0	50
+
+
+1	57
+
+
+2	54
+
+
+3	9
