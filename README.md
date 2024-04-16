@@ -57,10 +57,10 @@ getEMDDistribution.exe -file 9_3.txt -out out.txt -upperGirth 8
 result at out.txt
 
 
-girth = 4	11 cycles
+girth = 4,	11 cycles
 
 
-EMD	Number
+EMD value,	Number of cycles with such EMD value
 
 
 1	2
@@ -69,10 +69,10 @@ EMD	Number
 2	9
 
 
-girth = 6	51 cycles
+girth = 6,	51 cycles
 
 
-EMD	Number
+EMD value,	Number of cycles with such EMD value
 
 
 0	8
@@ -87,10 +87,10 @@ EMD	Number
 3	6
 
 
-girth = 8	170 cycles
+girth = 8,	170 cycles
 
 
-EMD	Number
+EMD value,	Number of cycles with such EMD value
 
 
 0	50
